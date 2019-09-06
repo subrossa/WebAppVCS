@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_trainazurehttpyd_name": {
-            "value": "frompipeline"
+            "value": "frompipeline",
         },
         "serverfarms_ASP_training_95a2_externalid": {
-            "value": "/subscriptions/5bad4884-027c-4aee-a837-d40c6b247ddb/resourceGroups/training/providers/Microsoft.Web/serverfarms/ASP-training-95a2"
+            "value": "/subscriptions/5bad4884-027c-4aee-a837-d40c6b247ddb/resourceGroups/training/providers/Microsoft.Web/serverfarms/ASP-training-95a2",
         }
     }
 }
